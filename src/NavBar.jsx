@@ -13,7 +13,7 @@ function NavScrollExample() {
             <Navbar.Collapse id="navbarScroll">
             <Nav
                 className="me-auto my-2 my-lg-0 vvvv "
-                style={{ maxHeight: '90px' }}
+                style={{ maxHeight: '120px' }}
                 navbarScroll>
                 <Nav.Link className='tap' href="#Home">Home</Nav.Link>
                 <Nav.Link className='tap' href="#About">About</Nav.Link>
